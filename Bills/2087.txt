@@ -1,0 +1,16 @@
+		 Welcome Fun Mini Mall
+ Bill Number:2087
+ Customer Name:
+ Phone  Number:
+ Customer Email:
+==================================================
+ Products			QTY	Price
+================================================== Roadster		1		1800
+ Roadster		1		1800
+ Roadster		1		1800
+
+==================================================
+ Sub Amount:			Rs.7200.00
+ Tax Amount:			Rs.54.00
+ Total Amount:			Rs.7254.00
+==================================================

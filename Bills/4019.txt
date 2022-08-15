@@ -1,0 +1,18 @@
+		 Welcome Fun Mini Mall
+ Bill Number:4019
+ Customer Name:Sameer
+ Phone  Number:9875426495
+ Customer Email:sam232@gmail.com
+==================================================
+ Products			QTY		Price
+==================================================
+ Iphone_XR			1		50000
+ IPhone_12			1		50000
+ Iphone_11			1		60000
+ Iphone_X			1		40000
+
+==================================================
+ Sub Amount:			Rs.200000.00
+ Tax Amount:			Rs.1600.00
+ Total Amount:			Rs.201600.00
+==================================================

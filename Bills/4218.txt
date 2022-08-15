@@ -1,0 +1,18 @@
+		 Welcome Fun Mini Mall
+ Bill Number:4218
+ Customer Name:
+ Phone  Number:
+ Customer Email:
+==================================================
+ Products			QTY		Price
+==================================================
+ Jack&Jones			1		1700
+ Jack&Jones			1		1700
+ Jack&Jones			1		1700
+ Jack&Jones			1		1700
+
+==================================================
+ Sub Amount:			Rs.6800.00
+ Tax Amount:			Rs.51.00
+ Total Amount:			Rs.6851.00
+==================================================
